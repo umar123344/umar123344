@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> First project</title>
+  
+</head>
+<body>
+  <h3> About me </h3>
+  <p> My name is : Mohammad Umar Farooque <br>
+    Roll no : 22DPCS037HY<br>
+    Enrollment no : A221066 <br>
+    I am student of Computer science engineering 
+       </p>
+  <br>
+ 
+<a href="https://www.wikipedia.org/"> Go to Wikipedia
+</a>
+  <br>
+<img src="C:\Users\saqui\Downloads"><br>
+<b> Welcome to Khanpur </b><br>
+<strong> I am Mohammad Umar Farooque </strong>
+</body>
+
+</html>
